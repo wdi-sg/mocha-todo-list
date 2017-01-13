@@ -40,8 +40,6 @@ DELETE /todos/:id
 
 * If you include the model todo in your spec file, you can execute requests to MongoDB directly from the test file, allowing you to watch the database directly before or after an action made by a test
 
-* If you take a look at the model, there is a validation on the color field allowing only certain colors; we are testing this validation with a message and the HTTP status
-
 **Bonus:**
 - Add more validations in the models and add the tests for them, too
 - Add fields with different datatypes and write tests for them
@@ -63,6 +61,3 @@ You should expect something like this in the terminal:
 - [Chai](http://chaijs.com/)
 - [Mocha](https://mochajs.org/)
 - [Mongoose Validations](http://mongoosejs.com/docs/validation.html)
-
-
-
