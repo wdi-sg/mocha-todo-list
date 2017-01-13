@@ -22,14 +22,13 @@ GET /todos
 
 GET /todos/:id
   ✓ should return a 200 response
-  ✓ should return an object containing the fields "name" and "color"
+  ✓ should return an object containing the fields 'name', 'description' and 'completed'
 
 POST /todos
   ✓ should return a 200 response
-  ✓ should return a 422 response if the field color is wrong
-  ✓ should return an error message if the color field is wrong
+  ✓ should return a 422 response if the field name is wrong
+  ✓ should return an error message if the name field is wrong
   ✓ should add a new todo to the database
-  ✓ should return an error if the color is wrong
 
 PUT /todos/:id
   ✓ should return a 200 response
