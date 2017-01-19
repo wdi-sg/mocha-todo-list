@@ -1,5 +1,15 @@
 # Testing TODOs with Mocha/Chai Lab
 
+This is Part 3.1 (optional) of a series of labs working towards building your first full stack web app.
+
+- [Part 1 - TDD todo list](https://github.com/wdi-sg/tdd-todo-list)
+- [Part 2 - Mongo todo list](https://github.com/wdi-sg/mongo-todo-list)
+- [Part 3 - Express todo list pt1](https://github.com/wdi-sg/express-todo-list-pt1)
+- Part 3.1 - (this repo, which is optional)
+- [Part 4 - Express todo list pt2](https://github.com/wdi-sg/express-todo-list-pt2)
+- [Part 5 - Multi Model todo list](https://github.com/wdi-sg/multi-model-todo-list)
+- [Part 6 - Users todo list](https://github.com/wdi-sg/users-todo-list)
+
 ## Introduction
 
 > ***Note:*** _This can be a pair programming activity or done independently._
